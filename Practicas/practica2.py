@@ -1,6 +1,6 @@
 import sys
 
-print("Práctica 2")
+print('Practica 2')
 
 ## Define las variables independientes
 a= 1.03
